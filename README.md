@@ -10,3 +10,4 @@
 - es_extended (built for v1.final, but easily ported)
 - Some form of q/bt/fivem-target - easily ported between the various different implementationa
 - esx_menu_default
+- An MLO for Cluckin' Bell. I used: https://forum.cfx.re/t/release-cluckin-bell/1045080
